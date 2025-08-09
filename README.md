@@ -3,6 +3,8 @@
 Este projeto foi desenvolvido durante meus estudos de **lógica de programação**.  
 Ele utiliza **HTML, CSS e JavaScript** para colocar em prática os conceitos aprendidos.
 
+![Prévia do Jogo do Número Secreto](https://raw.githubusercontent.com/JhenifferAp/jogo-do-numero-secreto/main/img/preview.jpg)
+
 ## 🕹️ Projeto: Jogo do Número Secreto
 Um jogo simples onde o usuário deve adivinhar um número aleatório entre **1 e 100**.
 
